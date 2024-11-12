@@ -76,10 +76,10 @@ button:hover {
 
 @media only screen and (max-width: 400px) {
     input{
-        width:250px;
+        width:220px;
     }
     #todo-list ul{
-        width:250px
+        width:220px
     }
     .container{
         width:300px
